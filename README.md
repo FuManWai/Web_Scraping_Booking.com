@@ -41,6 +41,7 @@ The project structure may include the following directories and files:
 The web scraping process is described and implemented in the Jupyter Notebook data_analysis.ipynb. BeautifulSoup is used to scrape hotel data from Booking.com.
 
 ## Data Analysis
+The data analysis involves filtering and cleaning the data, analyzing reviews and prices, and visualizing hotel ratings. The results are presented in the Jupyter Notebook data_analysis.ipynb.
 
 ## Author
 - Elsie Fu
